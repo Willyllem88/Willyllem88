@@ -76,9 +76,9 @@ Hi, I’m Guillem! I am passionate about computer science, driven by a desire to
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willyllem88&hide_border=true&layout=compact" align="left" />  
-
-<br/>  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willyllem88&hide_border=true&layout=compact" />
+</div>
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
