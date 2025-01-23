@@ -1,4 +1,4 @@
-### <div align="center">I'm Guillem Cabré, a Computer Scientist 👨‍💻 Enthisiast  🚀</div>  
+### <div align="center">I'm Guillem Cabré, a Computer Scientist 👨‍💻 Enthusiast  🚀</div>  
   
 
 Hi, I’m Guillem! I am passionate about computer science, driven by a desire to solve complex problems creatively and effectively. I am currently pursuing a degree in Computer Science at UPC, FIB, where I've honed my skills in various programming languages and technologies. My curiosity extends beyond academics, with interests in AI and cybersecurity, supported by personal projects. Outside of coding, I enjoy staying active through sports, maintaining a healthy balance between my work and personal life. I'm always eager to take on new challenges and continue growing as a professional.  
